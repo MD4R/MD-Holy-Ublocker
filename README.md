@@ -9,13 +9,6 @@ Also has a good amount of locally hosted games featured on the site.
 
 **Read below for information if the official site is blocked or for obtaining more links.**
 
-#### Supports
-- Youtube.com
-- Discord.com
-- Google.com
-- Reddit.com
-- Bing.com
-- And more sites!
 
 #### Features:
 - Tab customization using the Options menu for improved stealth 
@@ -24,9 +17,6 @@ Also has a good amount of locally hosted games featured on the site.
 - Has frequent support articles for issues relating to the various proxy instances
 
 Note: EmuLibrary is not featured in the public version.
-
-Official Site: <a href="https://holyubofficial.net">https://holyubofficial.net</a>
-
 **Be sure to join Titanium Network's Discord for more official site links:** <a href="https://discord.gg/unblock">https://discord.gg/unblock</a>
 
 Simply do `%proxy hu` in `#proxy-commands` for more Holy Unblocker links on the TN Discord server.
@@ -209,71 +199,5 @@ For an online IDE that you can use on your school computer and/or chromebook use
 - Fork this repo and enter in this URL to setup your workspace: `https://gitpod.io#https://github.com/YourNameHere/Holy-Unblocker/`
 
 Use the same steps above by running `npm install` in your repository and adding a `.gitignore` in your root directory specifying to exclude `node_modules`.
-
-## Detailed FAQ
-A detailed FAQ with common issues and solutions can be found <a href="https://holyubofficial.net/?faq">here</a> or on any official HU site on the FAQ page.
-
-<details>
-<summary>Quick FAQ</summary>
-
-**Why is the site I am on not working correctly or having CAPTCHA errors?**
-
-Captcha support is currently not available on all of the current proxies sadly. Therefore some sites may not work with any of the sites. Read below for issues with links on sites.
-
-**Why are some page links not working or leading to 404 pages?**
-
-This is an issue with the latest release of Alloy proxy but it may also occur with other proxies.
-
-In this case manually entering the URL of the page you would like to view can solve this or try navigating using the home button. (Reddit, Twitter) The next release of Alloy may fix this also.
-
-**When using YouTube on any of the proxy sites, why does the page not load fully or the video is just white?**
-
-There are two methods for fixing this:
-
-- Reloading the page normally when the error above happens should load the video.
-- Or right-clicking the page and doing Reload Frame if you are using some form of Stealth Mode.
-
-**When using Discord under Alloy or SysYa, why does the page stay gray/white or the QR code not load?**
-
-Once again do the same steps above:
-- Reloading the page normally when the error above happens should load the video
-- Or right-clicking the page and doing Reload Frame if you are using some form of Stealth Mode.
-
-Make sure you are also doing the steps correctly. Simply view link above for extended Discord proxy information/steps.
-
-**I am getting 502 errors. What do I do?**
-
-When this happens you may either switch sites to fix the error or wait a bit. Sometimes clearing your cache can help.
-
-If you still have any questions feel free to ask them in the discord linked here.
-
-</details>
-
-## More Information
-This project is maintained by Quite A Fancy Emerald with massive help from BinBashBanana (OlyB) and is an official flagship Titanium Network proxy site.
-
-- <a href="https://github.com/titaniumnetwork-dev/">https://github.com/titaniumnetwork-dev/</a>
-- <a href="https://titaniumnetwork.org/">https://titaniumnetwork.org/</a>
-
-View the official website for more detail and credits.
-
-### Proxy Sources:
-This project currently uses Corrosion, Womginx, and Palladium, linked below.
-
-- <a href="https://github.com/titaniumnetwork-dev/Corrosion">Corrosion</a>
-- <a href="https://github.com/binary-person/womginx">Womginx</a>
-- <a href="https://github.com/LudicrousDevelopment/Palladium">Palladium</a>
-- <a href="https://github.com/BinBashBanana/PyDodge">PyDodge</a>
-
-### Other:
-
-- <a href="https://github.com/vibedivide/vibeOS">vibeOS</a>
-- <a href="https://github.com/BinBashBanana/webretro">webretro</a>
-- <a href="https://ruffle.rs/">Ruffle</a>
-- <a href="https://github.com/BlaNKtext/webosu">webosu</a>
-
-### Notable Mentions:
-
-- <a href="https://soyoustart.com/">SoYouStart / OVH</a> (Hosting Provider)
 
 Thanks :D
